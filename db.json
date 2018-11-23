@@ -1,1 +1,73 @@
-
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Ivan",
+      "email": "ivan@pruebas.com",
+      "first_surname": "alcantar",
+      "second_surname": "guerrero",
+      "role": {
+        "id": 1
+      },
+      "account": 2
+    },
+    {
+      "id": 2,
+      "name": "Jose",
+      "email": "jose@pruebas.com",
+      "first_surname": "Garcia",
+      "second_surname": "Perez",
+      "role": {
+        "id": 1
+      },
+      "account": 2
+    },
+    {
+      "id": 3,
+      "name": "Juan",
+      "email": "juan@pruebas.com",
+      "first_surname": "Gonzalez",
+      "second_surname": "Ramirez",
+      "role": {
+        "id": 1
+      },
+      "account": 2
+    },
+    {
+      "email": "pruebas",
+      "name": "nombre nuevo",
+      "first_surname": "apellido nuevo",
+      "second_surname": "materno nuevo",
+      "role": 1,
+      "account": 1,
+      "id": 4
+    },
+    {
+      "email": "pruebas",
+      "name": "nombre nuevo",
+      "first_surname": "apellido nuevo",
+      "second_surname": "materno nuevo",
+      "role": 1,
+      "account": 1,
+      "id": 5
+    },
+    {
+      "email": "pruebas",
+      "name": "nombre nuevo",
+      "first_surname": "apellido nuevo",
+      "second_surname": "materno nuevo",
+      "role": 1,
+      "account": 1,
+      "id": 6
+    },
+    {
+      "email": "pruebas",
+      "name": "nombre nuevo",
+      "first_surname": "apellido nuevo",
+      "second_surname": "materno nuevo",
+      "role": 1,
+      "account": 1,
+      "id": 7
+    }
+  ]
+}
